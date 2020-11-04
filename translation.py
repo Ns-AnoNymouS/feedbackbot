@@ -1,7 +1,7 @@
 from config import Config
 
 class Translation(object):
-      START = str(Config.START) + "\n\nFor source code [press me](https://github.com/Ns-AnoNymouS/feedback)"
+      START = str(Config.START) + "\n\nFor source code [press me](https://github.com/Ns-AnoNymouS/feedbackbot)"
 
       RULES = Config.RULES
 
