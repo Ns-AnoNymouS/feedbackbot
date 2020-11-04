@@ -24,6 +24,8 @@ This repo is the clone of [FEEDBACK BOT](https://telegram.dog/feedback_Nsbot)
 
 - Type the start message which should be visible to other when anyone start the bot.
 
+- Give your I'd in Owner_id for receiving feedbacks.
+
 - Get the Bot Father Token from [@BotFather](https://telegram.dog/botfather)
 
 - Paste the token below TG_BOT_TOKEN.
