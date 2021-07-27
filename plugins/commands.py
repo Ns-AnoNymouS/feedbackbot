@@ -45,6 +45,9 @@ async def start(c, m):
                 [
                 InlineKeyboardButton("About", callback_data="about"),
                 InlineKeyboardButton("Login", callback_data="login"),
+               ],
+               [
+                InlineKeyboardButton("Kiccha Request", https://t.me/KicchaRequest ="Kiccha Request"),
                ]]
       markup = InlineKeyboardMarkup(button)
       await c.send_message(chat_id=m.chat.id,
